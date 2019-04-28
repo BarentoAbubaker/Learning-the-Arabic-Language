@@ -1,0 +1,79 @@
+body{
+    margin-left: 0;
+    background: #FFDAB9;
+}
+
+.both-titles{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 500px;
+    margin-right: 200px;
+    margin-right: 600px;
+    
+    
+}
+
+.page-title{
+    margin-bottom: 15px;
+}
+
+.subtitle{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.about-me-link{
+    margin-top:
+}
+
+nav{
+    margin-right: 1200px;
+    margin-left: 0;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+}
+table, th, td{
+    
+    border-left: white;
+    
+}
+table{
+    line-height: 60px;
+    width: 250px;
+    margin-bottom: 20px;
+    margin-left: 15px;
+    background: #d4f98e;
+    border: solid 1px black;
+    border-right: solid 1px black;
+    border-radius: 50px;
+    
+}
+td{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+    
+}
+
+th{
+    
+    font-size: 1.45rem;
+}
+
+section{
+    margin-left: 300px;
+    margin-right: 200px;
+    margin-top: 75px;
+}
+
+.arabic{
+    font-size: 25px;
+    
+}
+
+.arabic-list{
+    line-height: 50px;
+}
